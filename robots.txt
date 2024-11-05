@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecaviuko.github.io/YKX/sitemap_index.txt
+Sitemap: https://ecaviuko.github.io/eUn/sitemap_index.txt
+Sitemap: https://ecaviuko.github.io/hSR/sitemap_index.txt
+Sitemap: https://ecaviuko.github.io/jGk/sitemap_index.txt
